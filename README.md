@@ -1,6 +1,6 @@
 # Regularization-techniques
-Ridge and Lasso Regression
-Regularization techniques are used to reduce overfitting in the learning process.
+Ridge and Lasso Regression.          
+Regularization techniques are used to reduce overfitting in the learning process.    
 
 # Dependencies
 . pip install pandas.       
